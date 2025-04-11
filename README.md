@@ -44,7 +44,23 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> <br>
+/> <br> <br>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luizamelchor&show_icons=true&theme=shadow_green&include_all_commits=true&locale=en" 
+  /> 
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamelchor&theme=shadow_green&layout=compact&custom_title=Languages&langs_count=9" 
+  />
+</p><br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamelchor/luizamelchor/output/github-contribution-grid-snake-dark.svg">
