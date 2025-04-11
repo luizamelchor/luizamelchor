@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World)](https://git.io/typing-svg)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamelchor/luizamelchor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizamelchor/luizamelchor/output/github-contribution-grid-snake-dark.svg">
