@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25A145&width=435&lines=Hello+World.)](https://git.io/typing-svg)
 
-#### 💫 1st year student of A.D. in Systems Analysis and Development <br>
-#### 👩‍💻 Focus on Web Development
+### 💫 1st year student of A.D. in Systems Analysis and Development <br>
+### 👩‍💻 Focus on Web Development
 
 ---
-#### Languages and Technologies
+### Languages and Technologies
 
 <img 
     align="left" 
@@ -35,7 +35,7 @@
 
 ---
 
-#### Learning
+### Learning
 
 <img 
     align="left" 
