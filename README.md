@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=25A145&width=435&lines=Hello+World.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=259076&width=435&lines=Hello+World.)](https://git.io/typing-svg)
 
 ### 💫 1st year student of A.D. in Systems Analysis and Development <br>
 ### 👩‍💻 Focus on Web Development
@@ -52,13 +52,13 @@
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luizamelchor&show_icons=true&theme=shadow_green&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=luizamelchor&show_icons=true&theme=gotham&include_all_commits=true&locale=en" 
   /> 
     <img 
       align="center" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamelchor&theme=shadow_green&layout=compact&custom_title=Languages&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamelchor&theme=gotham&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </p><br>
 
