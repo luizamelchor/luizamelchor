@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=259076&width=435&lines=Hello+World.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=259076&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
 ### 💫 1st year student of A.D. in Systems Analysis and Development <br>
 ### 👩‍💻 Focus on Web Development
