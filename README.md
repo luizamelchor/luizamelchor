@@ -4,10 +4,13 @@
 ### 👩‍💻 Focus on Web Development
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,pycharm,git,figma,linkedin,discord" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,python,pycharm,git,figma" /></a>
+   <a href="https://linkedin/luiza-melchor-bisson-da-costa"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://discordapp.com/users/guestt."><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
+ 
+
+<br>
 <br>
 
 <p>
