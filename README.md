@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=2AA889&center=true&width=435&lines=Hello+World.)](https://git.io/typing-svg)
+<img src="" />
 
 <p align="center">
 💫 1st year student of A.D. in Systems Analysis and Development <br>
