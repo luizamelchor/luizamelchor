@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=259076&width=435&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=2AA889&center=true&width=435&lines=Hello+World.)](https://git.io/typing-svg)
 
 <p align="center">
 💫 1st year student of A.D. in Systems Analysis and Development <br>
@@ -31,7 +31,7 @@
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamelchor&theme=gotham&layout=compact&custom_title=Languages&langs_count=9" 
   />
-</p><br>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamelchor/luizamelchor/output/github-contribution-grid-snake-dark.svg">
