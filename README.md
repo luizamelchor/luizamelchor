@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=2AA889&center=true&width=435&lines=Hello+World.)](https://git.io/typing-svg)
-<img src="" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&pause=900&color=2AA889&center=true&width=435&lines=Hello+World." />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/7Sufpkr.gif" alt="lain gif" width="250" />
+</p>
 
 <p align="center">
 💫 1st year student of A.D. in Systems Analysis and Development <br>
