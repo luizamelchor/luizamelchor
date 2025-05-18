@@ -1,17 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=259076&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
-### 💫 1st year student of A.D. in Systems Analysis and Development <br>
-### 👩‍💻 Focus on Web Development
+<p align="center">
+💫 1st year student of A.D. in Systems Analysis and Development <br>
+👩‍💻 Focus on Web Development
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,python,pycharm,git,figma" /></a>
-   <a href="https://linkedin/luiza-melchor-bisson-da-costa"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://linkedin/luiza-melchor-bisson-da-costa"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://discordapp.com/users/guestt."><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
- 
-
-<br>
-<br>
 
 <p>
   <img 
