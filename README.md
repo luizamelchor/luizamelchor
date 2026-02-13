@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-💫 1st year student of A.D. in Systems Analysis and Development <br>
+💫 2nd year student of A.D. in Systems Analysis and Development <br>
 👩‍💻 Focus on Web Development
+</p>
+
+<p align="center">
+  Technologies and tools used in my projects:
 </p>
 
 <p align="center">
@@ -16,13 +20,24 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://linkedin/luiza-melchor-bisson-da-costa"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://discordapp.com/users/guestt."><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>  
+
+<p align="center">
+  You may reach me at: 
 </p>
 
+<p align="center">
+<a href="mailto:luizambdacosta@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin/luiza-melchor-bisson-da-costa"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+<!--
 <p>
   <img 
     align="center" 
@@ -38,6 +53,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamelchor&theme=gotham&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </p>
+-->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamelchor/luizamelchor/output/github-contribution-grid-snake-dark.svg">
